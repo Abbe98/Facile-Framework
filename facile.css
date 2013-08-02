@@ -1,0 +1,170 @@
+html* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+
+.row{
+  width: 100%;
+  margin: 0px;
+  float: left;
+  display: block;
+  clear: both;
+}
+
+.span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12{
+  display: block;
+  float: left;
+  width: 100%;
+  margin: 1% 0% 1% 0%;
+}
+
+.visible-phone, .visible-tablet, .visible-desktop .visible-bigscreen{
+  display: none;
+}
+
+
+//responsive
+
+//mobile
+@media only screen and (max-width: 767px) {
+  
+  .hidden-phone{
+    display: none; 
+  }
+  
+  .visible-phone{
+    display: inline;
+  }
+  
+}
+
+//tablet
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  
+  .hidden-tablet{
+    display: none;
+  }
+  
+  .visible-tablet{
+    display: inline;
+  }
+  
+}
+
+//desktop
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+  
+  .hidden-desktop{
+    display: none;
+  }
+  
+  .visible-desktop{
+    display: inline;
+  }
+  
+  .container{
+    width: 960px;
+  }
+}
+
+//big screen
+@media only screen and (min-width: 1200px) {
+  
+  .hidden-bigscreen{
+    display: none;
+  }
+  
+  .visible-bigscreen{
+    display: inline;
+  }
+  
+  .container{
+    width: 1200px;
+  }
+  
+}
+
+//responsive gird system
+@media only screen and (min-width: 767px){
+  
+  .span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12{
+    margin: 1% 0% 1% 1.4%;
+  }
+
+
+  [class*="span"]:first-child {
+    margin-left: 0px;
+  }
+  .span1{
+    width: 100%;
+  }
+  
+  .span2{
+    width: 49.3%;
+  }
+  
+  .span3{
+    width: 32.4%;
+  }
+  
+  .span4{
+    width: 23.95%;
+  }
+  
+  .span5{
+    width: 18.88%;
+  }
+  
+  .span6{
+    width: 15.5%;
+  }
+  
+  .span7{
+    width: 13.0857%;
+  }
+  
+  .span8{
+    width: 11.275%;
+  }
+  
+  .span9{
+    width: 9.8666%;
+  }
+  
+  .span10{
+    width: 8.74%;
+  }
+  
+  .span11{
+    width: 7.8181%;
+  }
+  
+  .span12{
+    width: 7.05%;
+  }
+}
+
+//more
+.pull-right {
+  float: right;
+}
+
+.pull-left {
+  float: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
