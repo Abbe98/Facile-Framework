@@ -31,9 +31,9 @@ html* {
 }
 
 
-//responsive
+/* Responsive Help Classes */
 
-//mobile
+/* Mobile */
 @media only screen and (max-width: 767px) {
   
   .hidden-phone{
@@ -46,7 +46,7 @@ html* {
   
 }
 
-//tablet
+/* Taablet */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
   
   .hidden-tablet{
@@ -59,7 +59,7 @@ html* {
   
 }
 
-//desktop
+/* Desktop */
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
   
   .hidden-desktop{
@@ -75,7 +75,7 @@ html* {
   }
 }
 
-//big screen
+/* Big Screen */
 @media only screen and (min-width: 1200px) {
   
   .hidden-bigscreen{
@@ -92,7 +92,7 @@ html* {
   
 }
 
-//responsive gird system
+/* Responsive Gird/Offset */
 @media only screen and (min-width: 767px){
   
   .span1, .span2, .span3, .span4, .span5, .span6, .span7, .span8, .span9, .span10, .span11, .span12{
@@ -150,9 +150,99 @@ html* {
   .span12{
     width: 7.05%;
   }
+  
+
+  .offset2 {
+    margin-left: 52.1%;
+  }
+
+  .offset2:first-child {
+    margin-left: 50.7%;
+  }
+
+  .offset3 {
+    margin-left: 35.2%;
+  }
+
+  .offset3:first-child {
+    margin-left: 33.8%;
+  }
+
+  .offset4 {
+    margin-left: 26.75%;
+  }
+
+  .offset4:first-child {
+    margin-left: 25.35%;
+  }
+
+  .offset5 {
+    margin-left: 21.68%;
+  }
+
+  .offset5:first-child {
+    margin-left: 20.28%;
+  }
+
+  .offset6 {
+    margin-left: 18.3%;
+  }
+
+  .offset6:first-child {
+    margin-left: 16.9%;
+  }
+
+  .offset7 {
+    margin-left: 15.8857%;
+  }
+
+  .offset7:first-child {
+    margin-left: 14.4857%;
+  }
+
+  .offset8 {
+    margin-left: 14.075%;
+  }
+
+  .offset8:first-child {
+    margin-left: 12.675%;
+  }
+
+  .offset9 {
+    margin-left: 12.6666%;
+  }
+
+  .offset9:first-child {
+    margin-left: 11.2666%;
+  }
+
+  .offset10 {
+    margin-left: 11.54%;
+  }
+
+  .offset10:first-child {
+    margin-left: 10.14%;
+  }
+
+  .offset11 {
+    margin-left: 10.6181%;
+  }
+
+  .offset11:first-child {
+    margin-left: 9.2181%;
+  }
+
+  .offset12 {
+    margin-left: 9.85%;
+  }
+
+  .offset12:first-child {
+    margin-left: 8.45%;
+  }
 }
 
-//more
+/* Help Classes */
+
 .pull-right {
   float: right;
 }
