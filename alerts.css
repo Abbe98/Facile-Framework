@@ -1,0 +1,11 @@
+.alert{
+  width: 60%;
+  padding: 4px 10px;
+  border: 2px solid #dfdfdf;
+  font-weight: 600;
+  word-wrap: break-word;
+  margin-bottom: 8px;
+  font-size: 0.875rem;
+  border-radius: 4px 4px 4px 4px;
+  background-color: #f2f2f2;
+}

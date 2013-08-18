@@ -1,0 +1,61 @@
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857;
+  color: rgb(51, 51, 51);
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-weight: 500;
+  line-height: 1.1;
+}
+
+h1, h2, h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h1{
+  font-size: 38px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 24px;
+}
+
+h4{
+  font-size: 18px;
+}
+
+h5{
+  font-size: 16px;
+}
+
+h6{
+  font-size: 12px;
+}
+
+small{
+  font-size: 85%;
+}
+
+h1 small{
+  font-size: 24px;
+}
+
+h2 small{
+  font-size: 18px;
+}
+
+h3 small{
+  font-size: 10px;
+}
+
+b, strong {
+    font-weight: bold;
+}

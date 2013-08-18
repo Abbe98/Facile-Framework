@@ -1,0 +1,146 @@
+html* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.row{
+  width: 100%;
+  margin: 0px;
+  float: left;
+  display: block;
+  clear: both;
+}
+
+.span12, .span11, .span10, .span9, .span8, .span7, .span6, .span5, .span4, .span3, .span2, .span1{
+  display: block;
+  float: left;
+  width: 100%;
+  margin: 1% 0% 1% 0%;
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+  
+  .container{
+    width: 960px;
+  }
+}
+
+
+@media only screen and (min-width: 1200px) {
+  
+  .container{
+    width: 1200px;
+  }
+  
+}
+
+
+@media only screen and (min-width: 600px){
+  
+  .span12, .span11, .span10, .span9, .span8, .span7, .span6, .span5, .span4, .span3, .span2, .span1{
+    margin: 1% 0% 1% 1.4%;
+  }
+
+  [class*="span"]:last-child {
+    margin-right: 1.4%;
+  }
+
+  .span1{
+    width: 97.2%;
+  }
+  
+  .span2{
+    width: 47.9%;
+  }
+ 
+  .span3{
+    width: 31.46666666666667%;
+  }
+  
+  .span4{
+    width: 23.25%;
+  }
+  
+  .span5{
+    width: 18.32%;
+  }
+  
+  .span6{
+    width: 15.03333333333333%;
+  }
+  
+  .span7{
+    width: 12.68571428571429%;
+  }
+  
+  .span8{
+    width: 10.925%;
+  }
+  
+  .span9{
+    width: 9.555555555555556%;
+  }
+  
+  .span10{
+    width: 8.46%;
+  }
+  
+  .span11{
+    width: 7.563636363636364%;
+  }
+  
+  .span12{
+    width: 6.816666666666667%;
+  }
+
+  .offset2 {
+    margin-left: 50.7%;
+  }
+
+  .offset3 {
+    margin-left: 38%;
+  }
+
+  .offset4 {
+    margin-left: 29.55%;
+  }
+  
+  .offset5 {
+    margin-left: 24.48%;
+  }
+  
+  .offset6 {
+    margin-left: 21.1%;
+  }
+
+  .offset7 {
+    margin-left: 18.6857%;
+  }
+
+  .offset8 {
+    margin-left: 16.875%;
+  }
+
+  .offset9 {
+    margin-left: 15.4666%;
+  }
+
+  .offset10 {
+    margin-left: 14.34%;
+  }
+
+  .offset11 {
+    margin-left: 13.4181%;
+  }
+
+  .offset12 {
+    margin-left: 12.65%;
+  }
+}
