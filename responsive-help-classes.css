@@ -1,4 +1,4 @@
-.visible-phone, .visible-tablet, .visible-desktop, .visible-bigscreen{
+.visible-phone, .visible-tablet, .visible-desktop, .visible-largescreen{
   display: none;
 }
 
@@ -40,14 +40,14 @@
   }
 }
 
-/* big screen */
+/* Large Screen */
 @media only screen and (min-width: 1200px) {
   
-  .hidden-bigscreen{
+  .hidden-largescreen{
     display: none;
   }
   
-  .visible-bigscreen{
+  .visible-largescreen{
     display: inline;
   }
 }
