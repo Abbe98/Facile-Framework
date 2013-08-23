@@ -1,4 +1,4 @@
-.visible-phone, .visible-tablet, .visible-desktop .visible-bigscreen{
+.visible-phone, .visible-tablet, .visible-desktop, .visible-bigscreen{
   display: none;
 }
 
