@@ -7,12 +7,7 @@ Facile Framework is a mobile-first CSS framework, that is created to allow devel
 
 The stable version is planed to be available together with documentation on November 9.
 
-The Facile FrameWork is maintained by Albin "Abbe" Larsson.
+Facile Framework is using other open projects as:
 
-You can follow Albin at:
-
-[Github](https://github.com/Abbe98)
-
-[Twitter](https://twitter.com/AlbinPCLarsson)
-
-or if you prefer Swedish [Google+](https://plus.google.com/117416771865902932932/posts).
+[Sosa](http://tenbytwenty.com/?xxxx_posts=sosa)
+[Normalize.css](http://necolas.github.io/normalize.css/)
