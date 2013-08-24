@@ -9,5 +9,5 @@ The stable version is planed to be available together with documentation on Nove
 
 Facile Framework is using other open projects as:
 
-[Sosa](http://tenbytwenty.com/?xxxx_posts=sosa)
+[Sosa](http://tenbytwenty.com/?xxxx_posts=sosa)<br />
 [Normalize.css](http://necolas.github.io/normalize.css/)
