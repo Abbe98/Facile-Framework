@@ -1,0 +1,9 @@
+@font-face {
+	font-family: Sosa;
+	src: url('assets/sosa.woff');
+}
+
+.icon{
+	font-family: Sosa;
+	font-size: 120%;
+}
