@@ -1,6 +1,7 @@
-code, pre {
+code,
+pre {
   margin: 0px;
-  font-family: Monaco,Menlo,Consolas,"Courier New",monospace;
+  font-family: Monaco, Menlo, Consolas, monospace;
   background-color: #f2f2f2;
   border: 1px solid #dfdfdf;
   font-size: 13px;
