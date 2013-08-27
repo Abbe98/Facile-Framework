@@ -1,79 +1,77 @@
-button{
-  display: inline-block;
-  margin: 5px;
-  text-align: center;
-  background: #dfdfdf;
-  border: 1px solid #dfdfdf;
-  font-size: 1rem;
-  height: 36px;
-  line-height: 34px;
-  padding: 0px 18px;
-  font-weight: 600;
-  
+button {
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+	background: #dfdfdf;
+	border: 1px solid #dfdfdf;
+	font-size: 1rem;
+	height: 36px;
+	line-height: 34px;
+	padding: 0px 18px;
+	font-weight: 600;
 }
-button:hover{
-  background: #f2f2f2;
-  cursor: pointer;
-}
-
-.btn{
-  display: inline-block;
-  margin: 5px;
-  text-align: center;
-  background: #dfdfdf;
-  border: 1px solid #dfdfdf;
-  font-size: 1rem;
-  height: 36px;
-  line-height: 34px;
-  padding: 0px 18px;
-  font-weight: 600;
-}
-.btn:hover{
-  background: #f2f2f2;
-  cursor: pointer;
+button:hover {
+	background: #f2f2f2;
+	cursor: pointer;
 }
 
-.btn-extralarge{
-  font-size: 1.875rem;
-  height: 66px;
-  line-height: 64px;
+.btn {
+	display: inline-block;
+	margin: 5px;
+	text-align: center;
+	background: #dfdfdf;
+	border: 1px solid #dfdfdf;
+	font-size: 1rem;
+	height: 36px;
+	line-height: 34px;
+	padding: 0px 18px;
+	font-weight: 600;
+}
+.btn:hover {
+	background: #f2f2f2;
+	cursor: pointer;
 }
 
-.btn-large{
-  font-size: 1.625rem;
-  height: 58px;
-  line-height: 56px;
+.btn-extralarge {
+	font-size: 1.875rem;
+	height: 66px;
+	line-height: 64px;
 }
 
-.btn-small{
-  font-size: 0.625rem;
-  height: 23px;
-  line-height: 21px;
+.btn-large {
+	font-size: 1.625rem;
+	height: 58px;
+	line-height: 56px;
 }
 
-.btn-oval{
-  border-radius: 1000px 1000px 1000px 1000px;
+.btn-small {
+	font-size: 0.625rem;
+	height: 23px;
+	line-height: 21px;
 }
 
-
-.btn-rounded{
-  border-radius: 5px 5px 5px 5px;
+.btn-oval {
+	border-radius: 1000px 1000px 1000px 1000px;
 }
 
 
-.btn-pillleft{
-  border-radius: 500px 0px 0px 500px;
+.btn-rounded {
+	border-radius: 5px 5px 5px 5px;
 }
 
 
-.btn-pillright{
-  border-radius: 0px 500px 500px 0px;
+.btn-pillleft {
+	border-radius: 500px 0px 0px 500px;
 }
 
-.btn-level{
-  width: 100%;
-  padding-left: 0px;
-  padding-right: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
+.btn-pillright {
+	border-radius: 0px 500px 500px 0px;
+}
+
+.btn-level {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
