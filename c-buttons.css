@@ -1,0 +1,87 @@
+.btn.turquoise {
+	background: #16a085;
+	border: 1px solid #16a085;
+	color: #fff;
+}
+
+.btn.turquoise:hover {
+	background: #1abc9c;
+}
+
+.btn.emerald {
+	background: #27ae60;
+	border: 1px solid #27ae60;
+	color: #fff;
+}
+
+.btn.emerald:hover {
+	background: #2ecc71;
+}
+
+.btn.sea {
+	background: #2980b9;
+	border: 1px solid #2980b9;
+	color: #fff;
+}
+
+.btn.sea:hover {
+	background: #3498db;
+}
+
+.btn.purple {
+	background: #8e44ad;
+	border: 1px solid #8e44ad;
+	color: #fff;
+}
+
+.btn.purple:hover {
+	background: #9b59b6;
+}
+
+.btn.midnight {
+	background: #2c3e50;
+	border: 1px solid #2c3e50;
+	color: #fff;
+}
+
+.btn.midnight:hover {
+	background: #34495e;
+}
+
+.btn.sun {
+	background: #f39c12;
+	border: 1px solid #f39c12;
+}
+
+.btn.sun:hover {
+	background: #f1c40f;
+}
+
+.btn.carrot {
+	background: #d35400;
+	border: 1px solid #d35400;
+	color: #fff;
+}
+
+.btn.carrot:hover {
+	background: #e67e22;
+}
+
+.btn.red {
+	background: #c0392b;
+	border: 1px solid #c0392b;
+	color: #fff;
+}
+
+.btn.red:hover {
+	background: #e74c3c;
+}
+
+.btn.concrete {
+	background: #7f8c8d;
+	border: 1px solid #7f8c8d;
+}
+
+.btn.concrete:hover {
+	background: #95a5a6;
+}

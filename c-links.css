@@ -1,0 +1,35 @@
+a.clouds { color: #f2f2f2; }
+a.clouds:visited { color: #dfdfdf; }
+a.clouds:hover { color: #dfdfdf; }
+
+a.turquoise { color: #1abc9c; }
+a.turquoise:visited { color: #16a085; }
+a.turquoise:hover { color: #16a085; }
+
+a.emerald { color: #2ecc71; }
+a.emerald:visited { color: #27ae60; }
+a.emerald:hover { color: #27ae60; }
+
+a.sea { color: #3498db; }
+a.sea:visited { color: #2980b9; }
+a.sea:hover { color: #2980b9; }
+
+a.purple { color: #9b59b6; }
+a.purple:visited { color: #8e44ad; }
+a.purple:hover { color: #8e44ad; }
+
+a.midnight { color: #34495e; }
+a.midnight:visited { color: #2c3e50; }
+a.midnight:hover { color: #2c3e50; }
+
+a.sun { color: #f1c40f; }
+a.sun:visited { color: #f39c12; }
+a.sun:hover { color: #f39c12; }
+
+a.carrot { color: #e67e22; }
+a.carrot:visited { color: #d35400; }
+a.carrot:hover { color: #d35400; }
+
+a.red { color: #e74c3c; }
+a.red:visited { color: #c0392b; }
+a.red:hover { color: #c0392b; }
