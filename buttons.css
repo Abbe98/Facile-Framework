@@ -1,20 +1,4 @@
-button {
-	display: inline-block;
-	margin: 5px;
-	text-align: center;
-	background: #dfdfdf;
-	border: 1px solid #dfdfdf;
-	font-size: 1rem;
-	height: 36px;
-	line-height: 34px;
-	padding: 0px 18px;
-	font-weight: 600;
-}
-button:hover {
-	background: #f2f2f2;
-	cursor: pointer;
-}
-
+button,
 .btn {
 	display: inline-block;
 	margin: 5px;
@@ -27,6 +11,8 @@ button:hover {
 	padding: 0px 18px;
 	font-weight: 600;
 }
+
+button:hover,
 .btn:hover {
 	background: #f2f2f2;
 	cursor: pointer;
@@ -54,11 +40,9 @@ button:hover {
 	border-radius: 1000px 1000px 1000px 1000px;
 }
 
-
 .btn-rounded {
 	border-radius: 5px 5px 5px 5px;
 }
-
 
 .btn-pillleft {
 	border-radius: 500px 0px 0px 500px;
