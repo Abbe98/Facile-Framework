@@ -1,0 +1,116 @@
+table.turquoise thead tr th,
+table.turquoise thead tr td,
+table.turquoise tbody tr td {
+	border-bottom: 1px #16a085 solid;
+	border-right: 1px #16a085 solid;
+}
+
+table.turquoise thead tr th:last-child,
+table.turquoise thead tr td:last-child,
+table.turquoise tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.emerald thead tr th,
+table.emerald thead tr td,
+table.emerald tbody tr td {
+	border-bottom: 1px #27ae60 solid;
+	border-right: 1px #27ae60 solid;
+}
+
+table.emerald thead tr th:last-child,
+table.emerald thead tr td:last-child,
+table.emerald tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.sea thead tr th,
+table.sea thead tr td,
+table.sea tbody tr td {
+	border-bottom: 1px #2980b9 solid;
+	border-right: 1px #2980b9 solid;
+}
+
+table.sea thead tr th:last-child,
+table.sea thead tr td:last-child,
+table.sea tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.purple thead tr th,
+table.purple thead tr td,
+table.purple tbody tr td {
+	border-bottom: 1px #8e44ad solid;
+	border-right: 1px #8e44ad solid;
+}
+
+table.purple thead tr th:last-child,
+table.purple thead tr td:last-child,
+table.purple tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.midnight thead tr th,
+table.midnight thead tr td,
+table.midnight tbody tr td {
+	border-bottom: 1px #2c3e50 solid;
+	border-right: 1px #2c3e50 solid;
+}
+
+table.midnight thead tr th:last-child,
+table.midnight thead tr td:last-child,
+table.midnight tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.sun thead tr th,
+table.sun thead tr td,
+table.sun tbody tr td {
+	border-bottom: 1px #f39c12 solid;
+	border-right: 1px #f39c12 solid;
+}
+
+table.sun thead tr th:last-child,
+table.sun thead tr td:last-child,
+table.sun tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.carrot thead tr th,
+table.carrot thead tr td,
+table.carrot tbody tr td {
+	border-bottom: 1px #d35400 solid;
+	border-right: 1px #d35400 solid;
+}
+
+table.carrot thead tr th:last-child,
+table.carrot thead tr td:last-child,
+table.carrot tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.red thead tr th,
+table.red thead tr td,
+table.red tbody tr td {
+	border-bottom: 1px #c0392b solid;
+	border-right: 1px #c0392b solid;
+}
+
+table.red thead tr th:last-child,
+table.red thead tr td:last-child,
+table.red tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
+
+table.concrete thead tr th,
+table.concrete thead tr td,
+table.concrete tbody tr td {
+	border-bottom: 1px #7f8c8d solid;
+	border-right: 1px #7f8c8d solid;
+}
+
+table.concrete thead tr th:last-child,
+table.concrete thead tr td:last-child,
+table.concrete tbody tr td:last-child {
+	border-right: 1px transparent solid;
+}
