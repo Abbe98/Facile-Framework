@@ -1,17 +1,17 @@
 code,
 pre {
-  margin: 0px;
-  font-family: Monaco, Menlo, Consolas, monospace;
-  background-color: #f2f2f2;
-  border: 1px solid #dfdfdf;
-  font-size: 13px;
-  line-height: 1.42857;
-  color: rgb(51, 51, 51);
-  padding: 9.5px;
+	margin: 0px;
+	font-family: Monaco, Menlo, Consolas, monospace;
+	background-color: #f2f2f2;
+	border: 1px solid #dfdfdf;
+	font-size: 13px;
+	line-height: 1.42857;
+	color: rgb(51, 51, 51);
+	padding: 9.5px;
 }
 
 pre {
-    display: block;
-    word-break: break-all;
-    word-wrap: break-word;
+	display: block;
+	word-break: break-all;
+	word-wrap: break-word;
 }
