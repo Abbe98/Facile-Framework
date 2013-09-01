@@ -1,15 +1,37 @@
 .pull-right {
-  float: right;
+	float: right;
 }
 
 .pull-left {
-  float: left;
+	float: left;
 }
 
 .text-center {
-  text-align: center;
+	text-align: center;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.pos-rel {
+	position: relative;
+}
+.pos-abs {
+	position: absolute;
+}
+.pos-fix {
+	position: fixed;
 }
 
 .hidden {
-  display: none;
+	visibility: hidden;
+}
+
+.no-display {
+	display: none;
 }
