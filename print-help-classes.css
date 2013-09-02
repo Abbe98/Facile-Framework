@@ -1,0 +1,33 @@
+@media all {
+	.page-break	{
+		display: none;
+	}
+	
+	.visible-print {
+		display: none;
+	}
+}
+
+@media print {
+	@page {
+		margin: 0.5cm;
+	}
+	
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+	
+	.page-break	{
+		display: block;
+		page-break-before: always;
+	}
+	
+	.visible-print {
+		display: inline;
+	}
+	
+	.hidden-print {
+		display: none;
+	}
+}
