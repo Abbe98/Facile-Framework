@@ -1,27 +1,38 @@
 .sidebar {
 	padding: 0px;
 	display: block;
+	border: 1px solid #dfdfdf;
 	width: 100%;
 	height: auto;
+	font-family: sans-serif;
+	text-decoration: none;
 }
 
-.sidebar li {
-	list-style: none;
-	background: #f2f2f2;
-	width: 100%;
-	height: 30px;
+.sidebar ul, .sidebar ul li {
+	margin: 0px;
+	padding: 0px;
 }
 
-.sidebar li:hover {
-	background: #dfdfdf;
-	border-left: 1px solid #858585;
-}
-
-.sidebar a {
+.sidebar a, .sidebar li {
 	display: block;
-	line-height: 30px;
-	width: 100%;
-	height: 30px;
-	padding-left: 5px;
-	color: #000;
+	line-height: 1.5em;
+	padding: 5px 20px;
+	text-decoration: none;
+	white-space: nowrap;
+	color: rgb(51, 51, 51);
+	background-color: #f2f2f2;
+}
+
+.sidebar .menu-header {
+	border-bottom: 1px solid #dfdfdf;
+	padding: 5px 20px;
+	font-size: 110%;
+}
+
+.sidebar .menu-header:hover {
+	background-color: transparent; 
+}
+
+.sidebar a:hover {
+	background-color: #dfdfdf;
 }
