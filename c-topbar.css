@@ -1,5 +1,6 @@
 .topbar.turquoise {
 	border: 1px solid #16a085;
+	background-color: #1abc9c;
 }
 
 .topbar.turquoise a, .topbar.turquoise li {
@@ -17,6 +18,7 @@
 
 .topbar.emerald {
 	border: 1px solid #27ae60;
+	background-color: #2ecc71;
 }
 
 .topbar.emerald a, .topbar.emerald li {
@@ -34,6 +36,7 @@
 
 .topbar.sea {
 	border: 1px solid #2980b9;
+	background-color: #3498db;
 }
 
 .topbar.sea a, .topbar.sea li {
@@ -51,6 +54,7 @@
 
 .topbar.purple {
 	border: 1px solid #8e44ad;
+	background-color: #9b59b6;
 }
 
 .topbar.purple a, .topbar.purple li {
@@ -69,6 +73,7 @@
 
 .topbar.midnight {
 	border: 1px solid #2c3e50;
+	background-color: #34495e;
 }
 
 .topbar.midnight a, .topbar.midnight li {
@@ -86,6 +91,7 @@
 
 .topbar.sun {
 	border: 1px solid #f39c12;
+	background-color: #f1c40f;
 }
 
 .topbar.sun a, .topbar.sun li {
@@ -102,6 +108,7 @@
 
 .topbar.carrot {
 	border: 1px solid #d35400;
+	background-color: #e67e22;
 }
 
 .topbar.carrot a, .topbar.carrot li {
@@ -120,6 +127,7 @@
 
 .topbar.red {
 	border: 1px solid #c0392b;
+	background-color: #e74c3c;
 }
 
 .topbar.red a, .topbar.red li {
@@ -137,6 +145,7 @@
 
 .topbar.concrete {
 	border: 1px solid #7f8c8d;
+	background-color: #95a5a6;
 }
 
 .topbar.concrete a, .topbar.concrete li {
