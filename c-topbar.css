@@ -1,0 +1,153 @@
+.topbar.turquoise {
+	border: 1px solid #16a085;
+}
+
+.topbar.turquoise a, .topbar.turquoise li {
+	color: #fff;
+	background-color: #1abc9c;
+}
+
+.topbar.turquoise a:hover {
+	background-color: #16a085;
+}
+
+.topbar.turquoise .menu-header:hover {
+	background-color: #1abc9c;
+}
+
+.topbar.emerald {
+	border: 1px solid #27ae60;
+}
+
+.topbar.emerald a, .topbar.emerald li {
+	color: #fff;
+	background-color: #2ecc71;
+}
+
+.topbar.emerald a:hover {
+	background-color: #27ae60;
+}
+
+.topbar.emerald .menu-header:hover {
+	background-color: #2ecc71;
+}
+
+.topbar.sea {
+	border: 1px solid #2980b9;
+}
+
+.topbar.sea a, .topbar.sea li {
+	color: #fff;
+	background-color: #3498db;
+}
+
+.topbar.sea a:hover {
+	background-color: #2980b9;
+}
+
+.topbar.sea .menu-header:hover {
+	background-color: #3498db;
+}
+
+.topbar.purple {
+	border: 1px solid #8e44ad;
+}
+
+.topbar.purple a, .topbar.purple li {
+	color: #fff;
+	background-color: #9b59b6;
+}
+
+
+.topbar.purple a:hover {
+	background-color: #8e44ad;
+}
+
+.topbar.purple .menu-header:hover {
+	background-color: #9b59b6;
+}
+
+.topbar.midnight {
+	border: 1px solid #2c3e50;
+}
+
+.topbar.midnight a, .topbar.midnight li {
+	color: #fff;
+	background-color: #34495e;
+}
+
+.topbar.midnight a:hover {
+	background-color: #2c3e50;
+}
+
+.topbar.midnight .menu-header:hover {
+	background-color: #34495e;
+}
+
+.topbar.sun {
+	border: 1px solid #f39c12;
+}
+
+.topbar.sun a, .topbar.sun li {
+	background-color: #f1c40f;
+}
+
+.topbar.sun a:hover {
+	background-color: #f39c12;
+}
+
+.topbar.sun .menu-header:hover {
+	background-color: #f1c40f;
+}
+
+.topbar.carrot {
+	border: 1px solid #d35400;
+}
+
+.topbar.carrot a, .topbar.carrot li {
+	color: #fff;
+	background-color: #e67e22;
+}
+
+
+.topbar.carrot a:hover {
+	background-color: #d35400;
+}
+
+.topbar.carrot .menu-header:hover {
+	background-color: #e67e22;
+}
+
+.topbar.red {
+	border: 1px solid #c0392b;
+}
+
+.topbar.red a, .topbar.red li {
+	color: #fff;
+	background-color: #e74c3c;
+}
+
+.topbar.red a:hover {
+	background-color: #c0392b;
+}
+
+.topbar.red .menu-header:hover {
+	background-color: #e74c3c;
+}
+
+.topbar.concrete {
+	border: 1px solid #7f8c8d;
+}
+
+.topbar.concrete a, .topbar.concrete li {
+	background-color: #95a5a6;
+}
+
+
+.topbar.concrete a:hover {
+	background-color: #7f8c8d;
+}
+
+.topbar.concrete .menu-header:hover {
+	background-color: #95a5a6;
+}
