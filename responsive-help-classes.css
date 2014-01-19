@@ -1,7 +1,7 @@
 .visible-phone,
 .visible-tablet,
 .visible-desktop,
-.visible-bigscreen {
+.visible-largescreen {
 	display: none;
 }
 

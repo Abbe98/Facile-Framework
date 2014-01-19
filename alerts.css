@@ -1,6 +1,7 @@
 .alert {
 	width: 60%;
 	padding: 4px 10px;
+	margin: auto;
 	border: 2px solid #dfdfdf;
 	font-weight: 600;
 	word-wrap: break-word;
