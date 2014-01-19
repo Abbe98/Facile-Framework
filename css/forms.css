@@ -1,48 +1,23 @@
-input[type=checkbox] {
-	visibility: hidden;
+input[type="button"],
+input[type="color"],
+input[type="file"],
+input[type="submit"],
+input[type="reset"] {
+	
 }
 
-.checkbox {
-	width: 25px;
-	margin: 0px;
-	position: relative;
-}
-
-.checkbox label {
-	cursor: pointer;
-	position: absolute;
-	width: 25px;
-	height: 25px;
-	top: 0;
-	left: 0;
-	background: #eee;
-	border:1px solid #ddd;
-}
-
-.checkbox label:after {
-	opacity: 0.2;
-	content: '';
-	position: absolute;
-	width: 9px;
-	height: 5px;
-	background: transparent;
-	top: 6px;
-	left: 7px;
-	border: 3px solid #333;
-	border-top: none;
-	border-right: none;
-
-	-webkit-transform: rotate(-45deg);
-	-moz-transform: rotate(-45deg);
-	-o-transform: rotate(-45deg);
-	-ms-transform: rotate(-45deg);
-	transform: rotate(-45deg);
-}
-
-.checkbox label:hover::after {
-	opacity: 0.5;
-}
-
-.checkbox input[type=checkbox]:checked + label:after {
-	opacity: 1;
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"] {
+	
 }
