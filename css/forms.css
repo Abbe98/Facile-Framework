@@ -1,0 +1,50 @@
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"],
+input[type="button"],
+input[type="color"],
+input[type="file"],
+input[type="submit"],
+input[type="reset"] {
+	display: inline-block;
+	margin: 5px;
+	font-size: 1rem;
+	height: 36px;
+	line-height: 34px;
+}
+
+input[type="button"],
+input[type="color"],
+input[type="submit"],
+input[type="reset"] {
+	text-align: center;
+	background: #dfdfdf;
+	border: 1px solid #dfdfdf;
+	font-size: 1rem;
+	height: 36px;
+	line-height: 34px;
+	padding: 0px 18px;
+	font-weight: 600;
+}
+
+input[type="color"] {
+	padding: 0px 2px;
+}
+
+input[type="button"]:hover,
+input[type="color"]:hover,
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+	background: #f2f2f2;
+	cursor: pointer;
+}
