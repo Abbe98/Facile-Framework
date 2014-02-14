@@ -15,7 +15,8 @@ form.turquoise input[type="button"],
 form.turquoise input[type="color"],
 form.turquoise input[type="submit"],
 form.turquoise input[type="reset"],
-form.turquoise select {
+form.turquoise select,
+form.turquoise textarea {
 	border: 1px solid #16a085;
 }
 
@@ -51,7 +52,8 @@ form.emerald input[type="button"],
 form.emerald input[type="color"],
 form.emerald input[type="submit"],
 form.emerald input[type="reset"],
-form.emeradd select {
+form.emerald select,
+form.emerald textarea {
 	border: 1px solid #27ae60;
 }
 
@@ -87,7 +89,8 @@ form.sea input[type="button"],
 form.sea input[type="color"],
 form.sea input[type="submit"],
 form.sea input[type="reset"],
-form.sea select {
+form.sea select,
+form.sea textarea {
 	border: 1px solid #2980b9;
 }
 
@@ -123,7 +126,8 @@ form.purple input[type="button"],
 form.purple input[type="color"],
 form.purple input[type="submit"],
 form.purple input[type="reset"],
-form.purple select {
+form.purple select,
+form.purple textarea {
 	border: 1px solid #8e44ad;
 }
 
@@ -159,7 +163,8 @@ form.midnight input[type="button"],
 form.midnight input[type="color"],
 form.midnight input[type="submit"],
 form.midnight input[type="reset"],
-form.midnight select {
+form.midnight select,
+form.midnight textarea {
 	border: 1px solid #2c3e50;
 }
 
@@ -195,7 +200,8 @@ form.sun input[type="button"],
 form.sun input[type="color"],
 form.sun input[type="submit"],
 form.sun input[type="reset"],
-form.sun select {
+form.sun select,
+form.sun textarea {
 	border: 1px solid #f39c12;
 }
 
@@ -230,7 +236,8 @@ form.carrot input[type="button"],
 form.carrot input[type="color"],
 form.carrot input[type="submit"],
 form.carrot input[type="reset"],
-form.carrot select {
+form.carrot select,
+form.carrot textarea {
 	border: 1px solid #d35400;
 }
 
@@ -266,7 +273,8 @@ form.red input[type="button"],
 form.red input[type="color"],
 form.red input[type="submit"],
 form.red input[type="reset"],
-form.red select {
+form.red select,
+form.red textarea {
 	border: 1px solid #c0392b;
 }
 
@@ -302,7 +310,8 @@ form.concrete input[type="button"],
 form.concrete input[type="color"],
 form.concrete input[type="submit"],
 form.concrete input[type="reset"],
-form.concrete select {
+form.concrete select,
+form.concrete textarea {
 	border: 1px solid #7f8c8d;
 }
 

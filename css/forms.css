@@ -27,6 +27,10 @@ select {
 	border: 1px solid #dfdfdf;
 }
 
+textarea {
+	border: 1px solid #dfdfdf;
+}
+
 input[type="button"],
 input[type="color"],
 input[type="submit"],
