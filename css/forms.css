@@ -1,3 +1,7 @@
+input {
+	margin: 0;
+}
+
 input[type="date"],
 input[type="datetime"],
 input[type="datetime-local"],
@@ -18,7 +22,6 @@ input[type="submit"],
 input[type="reset"],
 select {
 	display: inline-block;
-	margin: 3px;
 	font-size: 1rem;
 	height: 36px;
 	line-height: 34px;
