@@ -3,9 +3,10 @@
 	padding: 0px;
 	display: block;
 	width: 100%;
-	height: 44px;
+	height: 46px;
 	border: 1px solid #dfdfdf;
 	font-family: sans-serif;
+	background-color: #f2f2f2;
 }
 
 .topbar ul, .topbar ul li {
@@ -16,16 +17,16 @@
 .topbar a, .topbar li {
 	display: block;
 	line-height: 1.5em;
-	padding: 10px 20px;
+	padding: 11.5px 20px;
 	text-decoration: none;
 	color: rgb(51, 51, 51);
 	background-color: #f2f2f2;
 	float: left;
 }
 
-.topbar .menu-header {
-	padding: 8px 20px;
+.topbar .menu-header a {
 	font-size: 110%;
+	padding: 10.5px 20px;
 }
 
 .topbar .menu-header:hover {
