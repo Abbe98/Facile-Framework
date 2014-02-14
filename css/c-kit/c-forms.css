@@ -1,0 +1,321 @@
+form.turquoise input[type="date"],
+form.turquoise input[type="datetime"],
+form.turquoise input[type="datetime-local"],
+form.turquoise input[type="email"],
+form.turquoise input[type="month"],
+form.turquoise input[type="number"],
+form.turquoise input[type="password"],
+form.turquoise input[type="search"],
+form.turquoise input[type="tel"],
+form.turquoise input[type="text"],
+form.turquoise input[type="time"],
+form.turquoise input[type="url"],
+form.turquoise input[type="week"],
+form.turquoise input[type="button"],
+form.turquoise input[type="color"],
+form.turquoise input[type="submit"],
+form.turquoise input[type="reset"],
+form.turquoise select {
+	border: 1px solid #16a085;
+}
+
+form.turquoise input[type="button"],
+form.turquoise input[type="color"],
+form.turquoise input[type="submit"],
+form.turquoise input[type="reset"] {
+	background: #16a085;
+	color: #fff;
+}
+
+form.turquoise input[type="button"]:hover,
+form.turquoise input[type="color"]:hover,
+form.turquoise input[type="submit"]:hover,
+form.turquoise input[type="reset"]:hover {
+	background: #1abc9c;
+}
+
+form.emerald input[type="date"],
+form.emerald input[type="datetime"],
+form.emerald input[type="datetime-local"],
+form.emerald input[type="email"],
+form.emerald input[type="month"],
+form.emerald input[type="number"],
+form.emerald input[type="password"],
+form.emerald input[type="search"],
+form.emerald input[type="tel"],
+form.emerald input[type="text"],
+form.emerald input[type="time"],
+form.emerald input[type="url"],
+form.emerald input[type="week"],
+form.emerald input[type="button"],
+form.emerald input[type="color"],
+form.emerald input[type="submit"],
+form.emerald input[type="reset"],
+form.emeradd select {
+	border: 1px solid #27ae60;
+}
+
+form.emerald input[type="button"],
+form.emerald input[type="color"],
+form.emerald input[type="submit"],
+form.emerald input[type="reset"] {
+	background: #27ae60;
+	color: #fff;
+}
+
+form.emerald input[type="button"]:hover,
+form.emerald input[type="color"]:hover,
+form.emerald input[type="submit"]:hover,
+form.emerald input[type="reset"]:hover {
+	background: #2ecc71;
+}
+
+form.sea input[type="date"],
+form.sea input[type="datetime"],
+form.sea input[type="datetime-local"],
+form.sea input[type="email"],
+form.sea input[type="month"],
+form.sea input[type="number"],
+form.sea input[type="password"],
+form.sea input[type="search"],
+form.sea input[type="tel"],
+form.sea input[type="text"],
+form.sea input[type="time"],
+form.sea input[type="url"],
+form.sea input[type="week"],
+form.sea input[type="button"],
+form.sea input[type="color"],
+form.sea input[type="submit"],
+form.sea input[type="reset"],
+form.sea select {
+	border: 1px solid #2980b9;
+}
+
+form.sea input[type="button"],
+form.sea input[type="color"],
+form.sea input[type="submit"],
+form.sea input[type="reset"] {
+	background: #2980b9;
+	color: #fff;
+}
+
+form.sea input[type="button"]:hover,
+form.sea input[type="color"]:hover,
+form.sea input[type="submit"]:hover,
+form.sea input[type="reset"]:hover {
+	background: #3498db;
+}
+
+form.purple input[type="date"],
+form.purple input[type="datetime"],
+form.purple input[type="datetime-local"],
+form.purple input[type="email"],
+form.purple input[type="month"],
+form.purple input[type="number"],
+form.purple input[type="password"],
+form.purple input[type="search"],
+form.purple input[type="tel"],
+form.purple input[type="text"],
+form.purple input[type="time"],
+form.purple input[type="url"],
+form.purple input[type="week"],
+form.purple input[type="button"],
+form.purple input[type="color"],
+form.purple input[type="submit"],
+form.purple input[type="reset"],
+form.purple select {
+	border: 1px solid #8e44ad;
+}
+
+form.purple input[type="button"],
+form.purple input[type="color"],
+form.purple input[type="submit"],
+form.purple input[type="reset"] {
+	background: #8e44ad;
+	color: #fff;
+}
+
+form.purple input[type="button"]:hover,
+form.purple input[type="color"]:hover,
+form.purple input[type="submit"]:hover,
+form.purple input[type="reset"]:hover {
+	background: #9b59b6;
+}
+
+form.midnight input[type="date"],
+form.midnight input[type="datetime"],
+form.midnight input[type="datetime-local"],
+form.midnight input[type="email"],
+form.midnight input[type="month"],
+form.midnight input[type="number"],
+form.midnight input[type="password"],
+form.midnight input[type="search"],
+form.midnight input[type="tel"],
+form.midnight input[type="text"],
+form.midnight input[type="time"],
+form.midnight input[type="url"],
+form.midnight input[type="week"],
+form.midnight input[type="button"],
+form.midnight input[type="color"],
+form.midnight input[type="submit"],
+form.midnight input[type="reset"],
+form.midnight select {
+	border: 1px solid #2c3e50;
+}
+
+form.midnight input[type="button"],
+form.midnight input[type="color"],
+form.midnight input[type="submit"],
+form.midnight input[type="reset"] {
+	background: #2c3e50;
+	color: #fff;
+}
+
+form.midnight input[type="button"]:hover,
+form.midnight input[type="color"]:hover,
+form.midnight input[type="submit"]:hover,
+form.midnight input[type="reset"]:hover {
+	background: #34495e;
+}
+
+form.sun input[type="date"],
+form.sun input[type="datetime"],
+form.sun input[type="datetime-local"],
+form.sun input[type="email"],
+form.sun input[type="month"],
+form.sun input[type="number"],
+form.sun input[type="password"],
+form.sun input[type="search"],
+form.sun input[type="tel"],
+form.sun input[type="text"],
+form.sun input[type="time"],
+form.sun input[type="url"],
+form.sun input[type="week"],
+form.sun input[type="button"],
+form.sun input[type="color"],
+form.sun input[type="submit"],
+form.sun input[type="reset"],
+form.sun select {
+	border: 1px solid #f39c12;
+}
+
+form.sun input[type="button"],
+form.sun input[type="color"],
+form.sun input[type="submit"],
+form.sun input[type="reset"] {
+	background: #f39c12;
+}
+
+form.sun input[type="button"]:hover,
+form.sun input[type="color"]:hover,
+form.sun input[type="submit"]:hover,
+form.sun input[type="reset"]:hover {
+	background: #f1c40f;
+}
+
+form.carrot input[type="date"],
+form.carrot input[type="datetime"],
+form.carrot input[type="datetime-local"],
+form.carrot input[type="email"],
+form.carrot input[type="month"],
+form.carrot input[type="number"],
+form.carrot input[type="password"],
+form.carrot input[type="search"],
+form.carrot input[type="tel"],
+form.carrot input[type="text"],
+form.carrot input[type="time"],
+form.carrot input[type="url"],
+form.carrot input[type="week"],
+form.carrot input[type="button"],
+form.carrot input[type="color"],
+form.carrot input[type="submit"],
+form.carrot input[type="reset"],
+form.carrot select {
+	border: 1px solid #d35400;
+}
+
+form.carrot input[type="button"],
+form.carrot input[type="color"],
+form.carrot input[type="submit"],
+form.carrot input[type="reset"] {
+	background: #d35400;
+	color: #fff;
+}
+
+form.carrot input[type="button"]:hover,
+form.carrot input[type="color"]:hover,
+form.carrot input[type="submit"]:hover,
+form.carrot input[type="reset"]:hover {
+	background: #e67e22;
+}
+
+form.red input[type="date"],
+form.red input[type="datetime"],
+form.red input[type="datetime-local"],
+form.red input[type="email"],
+form.red input[type="month"],
+form.red input[type="number"],
+form.red input[type="password"],
+form.red input[type="search"],
+form.red input[type="tel"],
+form.red input[type="text"],
+form.red input[type="time"],
+form.red input[type="url"],
+form.red input[type="week"],
+form.red input[type="button"],
+form.red input[type="color"],
+form.red input[type="submit"],
+form.red input[type="reset"],
+form.red select {
+	border: 1px solid #c0392b;
+}
+
+form.red input[type="button"],
+form.red input[type="color"],
+form.red input[type="submit"],
+form.red input[type="reset"] {
+	background: #c0392b;
+	color: #fff;
+}
+
+form.red input[type="button"]:hover,
+form.red input[type="color"]:hover,
+form.red input[type="submit"]:hover,
+form.red input[type="reset"]:hover {
+	background: #e74c3c;
+}
+
+form.concrete input[type="date"],
+form.concrete input[type="datetime"],
+form.concrete input[type="datetime-local"],
+form.concrete input[type="email"],
+form.concrete input[type="month"],
+form.concrete input[type="number"],
+form.concrete input[type="password"],
+form.concrete input[type="search"],
+form.concrete input[type="tel"],
+form.concrete input[type="text"],
+form.concrete input[type="time"],
+form.concrete input[type="url"],
+form.concrete input[type="week"],
+form.concrete input[type="button"],
+form.concrete input[type="color"],
+form.concrete input[type="submit"],
+form.concrete input[type="reset"],
+form.concrete select {
+	border: 1px solid #7f8c8d;
+}
+
+form.concrete input[type="button"],
+form.concrete input[type="color"],
+form.concrete input[type="submit"],
+form.concrete input[type="reset"] {
+	background: #7f8c8d;
+}
+
+form.concrete input[type="button"]:hover,
+form.concrete input[type="color"]:hover,
+form.concrete input[type="submit"]:hover,
+form.concrete input[type="reset"]:hover {
+	background: #95a5a6;
+}
