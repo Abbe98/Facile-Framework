@@ -15,7 +15,8 @@ input[type="button"],
 input[type="color"],
 input[type="file"],
 input[type="submit"],
-input[type="reset"] {
+input[type="reset"],
+select {
 	display: inline-block;
 	margin: 3px;
 	font-size: 1rem;
@@ -49,6 +50,9 @@ input[type="reset"]:hover {
 	cursor: pointer;
 }
 
+select[multiple] {
+	height: auto;
+}
 label {
 	display: inline-block;
 	margin-bottom: 5px;
