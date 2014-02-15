@@ -3,7 +3,8 @@
 	background-color: #1abc9c;
 }
 
-.topbar.turquoise a, .topbar.turquoise li {
+.topbar.turquoise a,
+.topbar.turquoise li {
 	color: #fff;
 	background-color: #1abc9c;
 }
@@ -21,7 +22,8 @@
 	background-color: #2ecc71;
 }
 
-.topbar.emerald a, .topbar.emerald li {
+.topbar.emerald a,
+.topbar.emerald li {
 	color: #fff;
 	background-color: #2ecc71;
 }
@@ -39,7 +41,8 @@
 	background-color: #3498db;
 }
 
-.topbar.sea a, .topbar.sea li {
+.topbar.sea a,
+.topbar.sea li {
 	color: #fff;
 	background-color: #3498db;
 }
@@ -57,7 +60,8 @@
 	background-color: #9b59b6;
 }
 
-.topbar.purple a, .topbar.purple li {
+.topbar.purple a,
+.topbar.purple li {
 	color: #fff;
 	background-color: #9b59b6;
 }
@@ -76,7 +80,8 @@
 	background-color: #34495e;
 }
 
-.topbar.midnight a, .topbar.midnight li {
+.topbar.midnight a,
+.topbar.midnight li {
 	color: #fff;
 	background-color: #34495e;
 }
@@ -94,7 +99,8 @@
 	background-color: #f1c40f;
 }
 
-.topbar.sun a, .topbar.sun li {
+.topbar.sun a,
+.topbar.sun li {
 	background-color: #f1c40f;
 }
 
@@ -111,7 +117,8 @@
 	background-color: #e67e22;
 }
 
-.topbar.carrot a, .topbar.carrot li {
+.topbar.carrot a,
+.topbar.carrot li {
 	color: #fff;
 	background-color: #e67e22;
 }
@@ -130,7 +137,8 @@
 	background-color: #e74c3c;
 }
 
-.topbar.red a, .topbar.red li {
+.topbar.red a,
+.topbar.red li {
 	color: #fff;
 	background-color: #e74c3c;
 }
@@ -148,7 +156,8 @@
 	background-color: #95a5a6;
 }
 
-.topbar.concrete a, .topbar.concrete li {
+.topbar.concrete a,
+.topbar.concrete li {
 	background-color: #95a5a6;
 }
 

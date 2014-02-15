@@ -8,12 +8,14 @@
 	text-decoration: none;
 }
 
-.sidebar ul, .sidebar ul li {
+.sidebar ul,
+.sidebar ul li {
 	margin: 0px;
 	padding: 0px;
 }
 
-.sidebar a, .sidebar li {
+.sidebar a,
+.sidebar li {
 	display: block;
 	line-height: 1.5em;
 	padding: 5px 20px;

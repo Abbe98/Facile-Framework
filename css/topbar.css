@@ -9,12 +9,14 @@
 	background-color: #f2f2f2;
 }
 
-.topbar ul, .topbar ul li {
+.topbar ul,
+.topbar ul li {
 	margin: 0px;
 	padding: 0px;
 }
 
-.topbar a, .topbar li {
+.topbar a,
+.topbar li {
 	display: block;
 	line-height: 1.5em;
 	padding: 11.5px 20px;
@@ -43,7 +45,8 @@
 		height: auto;
 	}
 	
-	.topbar a, .topbar li {
+	.topbar a,
+	.topbar li {
 		width: 100%;
 		float: none;
 	}
