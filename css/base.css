@@ -2,6 +2,11 @@ html * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	
+	-webkit-transition: .5s;
+	-moz-transition: .5s;
+	transition: .5s;
+
 }
 
 body {
