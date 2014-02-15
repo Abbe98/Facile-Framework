@@ -26,13 +26,9 @@
 	float: left;
 }
 
-.topbar .menu-header a {
+.topbar .menu-header {
 	font-size: 110%;
 	padding: 10.5px 20px;
-}
-
-.topbar .menu-header:hover {
-	background-color: transparent; 
 }
 
 .topbar a:hover {
