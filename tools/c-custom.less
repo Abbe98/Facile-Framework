@@ -1,0 +1,142 @@
+//variables
+@text: #fff;
+@main: #16a085;
+@secondary: #1abc9c;
+
+//alerts
+.alert.custom {
+  background: @secondary;
+  color: @text;
+  border: 2px solid @main;
+}
+
+//badges
+.badge.custom {
+  background: @secondary;
+  color: @text;
+}
+
+//buttons
+button.custom,
+.btn.custom {
+  background: @main;
+  border: 1px solid @main;
+  color: @text;
+}
+
+button.custom:hover,
+.btn.custom:hover {
+  background: @secondary;
+}
+
+//code
+code.custom,
+pre.custom {
+  border: 1px solid @main;
+}
+
+//forms
+form.custom input[type="date"],
+form.custom input[type="datetime"],
+form.custom input[type="datetime-local"],
+form.custom input[type="email"],
+form.custom input[type="month"],
+form.custom input[type="number"],
+form.custom input[type="password"],
+form.custom input[type="search"],
+form.custom input[type="tel"],
+form.custom input[type="text"],
+form.custom input[type="time"],
+form.custom input[type="url"],
+form.custom input[type="week"],
+form.custom input[type="button"],
+form.custom input[type="color"],
+form.custom input[type="submit"],
+form.custom input[type="reset"],
+form.custom select,
+form.custom textarea {
+  border: 1px solid @main;
+}
+
+form.custom input[type="button"],
+form.custom input[type="color"],
+form.custom input[type="submit"],
+form.custom input[type="reset"] {
+  background: @main;
+  color: @text;
+}
+
+form.custom input[type="button"]:hover,
+form.custom input[type="color"]:hover,
+form.custom input[type="submit"]:hover,
+form.custom input[type="reset"]:hover {
+  background: @secondary;
+}
+
+//labels
+.label.custom {
+  background: @secondary;
+  color: @text;
+}
+
+//links
+a.custom { color: @secondary; }
+a.custom:visited { color: @main; }
+a.custom:hover { color: @main; }
+
+//sidebar
+.sidebar.custom {
+  border: 1px solid @main;
+}
+
+.sidebar.custom a,
+.sidebar.custom li {
+  color: @text;
+  background-color: @secondary;
+}
+
+.sidebar.custom .menu-header {
+  border-bottom: 1px solid @main;
+}
+
+.sidebar.custom a:hover {
+  background-color: @main;
+}
+
+.sidebar.custom .menu-header:hover {
+  background-color: @secondary;
+}
+
+//tabels
+table.custom thead tr th,
+table.custom thead tr td,
+table.custom tbody tr td {
+  border-bottom: 1px @main solid;
+  border-right: 1px @main solid;
+}
+
+table.custom thead tr th:last-child,
+table.custom thead tr td:last-child,
+table.custom tbody tr td:last-child {
+  border-right: 1px transparent solid;
+}
+
+//topbar
+.topbar.custom {
+  border: 1px solid @main;
+  background-color: @secondary;
+}
+
+.topbar.custom a,
+.topbar.custom li {
+  color: @text;
+  background-color: @secondary;
+}
+
+.topbar.custom a:hover {
+  background-color: @main;
+}
+
+.topbar.custom .menu-header:hover {
+  background-color: @secondary;
+}
