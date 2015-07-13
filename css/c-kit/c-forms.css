@@ -17,22 +17,22 @@ form.turquoise input[type="submit"],
 form.turquoise input[type="reset"],
 form.turquoise select,
 form.turquoise textarea {
-	border: 1px solid #16a085;
+  border: 1px solid #16a085;
 }
 
 form.turquoise input[type="button"],
 form.turquoise input[type="color"],
 form.turquoise input[type="submit"],
 form.turquoise input[type="reset"] {
-	background: #16a085;
-	color: #fff;
+  background: #16a085;
+  color: #fff;
 }
 
 form.turquoise input[type="button"]:hover,
 form.turquoise input[type="color"]:hover,
 form.turquoise input[type="submit"]:hover,
 form.turquoise input[type="reset"]:hover {
-	background: #1abc9c;
+  background: #1abc9c;
 }
 
 form.emerald input[type="date"],
@@ -54,22 +54,22 @@ form.emerald input[type="submit"],
 form.emerald input[type="reset"],
 form.emerald select,
 form.emerald textarea {
-	border: 1px solid #27ae60;
+  border: 1px solid #27ae60;
 }
 
 form.emerald input[type="button"],
 form.emerald input[type="color"],
 form.emerald input[type="submit"],
 form.emerald input[type="reset"] {
-	background: #27ae60;
-	color: #fff;
+  background: #27ae60;
+  color: #fff;
 }
 
 form.emerald input[type="button"]:hover,
 form.emerald input[type="color"]:hover,
 form.emerald input[type="submit"]:hover,
 form.emerald input[type="reset"]:hover {
-	background: #2ecc71;
+  background: #2ecc71;
 }
 
 form.sea input[type="date"],
@@ -91,22 +91,22 @@ form.sea input[type="submit"],
 form.sea input[type="reset"],
 form.sea select,
 form.sea textarea {
-	border: 1px solid #2980b9;
+  border: 1px solid #2980b9;
 }
 
 form.sea input[type="button"],
 form.sea input[type="color"],
 form.sea input[type="submit"],
 form.sea input[type="reset"] {
-	background: #2980b9;
-	color: #fff;
+  background: #2980b9;
+  color: #fff;
 }
 
 form.sea input[type="button"]:hover,
 form.sea input[type="color"]:hover,
 form.sea input[type="submit"]:hover,
 form.sea input[type="reset"]:hover {
-	background: #3498db;
+  background: #3498db;
 }
 
 form.purple input[type="date"],
@@ -128,22 +128,22 @@ form.purple input[type="submit"],
 form.purple input[type="reset"],
 form.purple select,
 form.purple textarea {
-	border: 1px solid #8e44ad;
+  border: 1px solid #8e44ad;
 }
 
 form.purple input[type="button"],
 form.purple input[type="color"],
 form.purple input[type="submit"],
 form.purple input[type="reset"] {
-	background: #8e44ad;
-	color: #fff;
+  background: #8e44ad;
+  color: #fff;
 }
 
 form.purple input[type="button"]:hover,
 form.purple input[type="color"]:hover,
 form.purple input[type="submit"]:hover,
 form.purple input[type="reset"]:hover {
-	background: #9b59b6;
+  background: #9b59b6;
 }
 
 form.midnight input[type="date"],
@@ -165,22 +165,22 @@ form.midnight input[type="submit"],
 form.midnight input[type="reset"],
 form.midnight select,
 form.midnight textarea {
-	border: 1px solid #2c3e50;
+  border: 1px solid #2c3e50;
 }
 
 form.midnight input[type="button"],
 form.midnight input[type="color"],
 form.midnight input[type="submit"],
 form.midnight input[type="reset"] {
-	background: #2c3e50;
-	color: #fff;
+  background: #2c3e50;
+  color: #fff;
 }
 
 form.midnight input[type="button"]:hover,
 form.midnight input[type="color"]:hover,
 form.midnight input[type="submit"]:hover,
 form.midnight input[type="reset"]:hover {
-	background: #34495e;
+  background: #34495e;
 }
 
 form.sun input[type="date"],
@@ -202,21 +202,21 @@ form.sun input[type="submit"],
 form.sun input[type="reset"],
 form.sun select,
 form.sun textarea {
-	border: 1px solid #f39c12;
+  border: 1px solid #f39c12;
 }
 
 form.sun input[type="button"],
 form.sun input[type="color"],
 form.sun input[type="submit"],
 form.sun input[type="reset"] {
-	background: #f39c12;
+  background: #f39c12;
 }
 
 form.sun input[type="button"]:hover,
 form.sun input[type="color"]:hover,
 form.sun input[type="submit"]:hover,
 form.sun input[type="reset"]:hover {
-	background: #f1c40f;
+  background: #f1c40f;
 }
 
 form.carrot input[type="date"],
@@ -238,22 +238,22 @@ form.carrot input[type="submit"],
 form.carrot input[type="reset"],
 form.carrot select,
 form.carrot textarea {
-	border: 1px solid #d35400;
+  border: 1px solid #d35400;
 }
 
 form.carrot input[type="button"],
 form.carrot input[type="color"],
 form.carrot input[type="submit"],
 form.carrot input[type="reset"] {
-	background: #d35400;
-	color: #fff;
+  background: #d35400;
+  color: #fff;
 }
 
 form.carrot input[type="button"]:hover,
 form.carrot input[type="color"]:hover,
 form.carrot input[type="submit"]:hover,
 form.carrot input[type="reset"]:hover {
-	background: #e67e22;
+  background: #e67e22;
 }
 
 form.red input[type="date"],
@@ -275,22 +275,22 @@ form.red input[type="submit"],
 form.red input[type="reset"],
 form.red select,
 form.red textarea {
-	border: 1px solid #c0392b;
+  border: 1px solid #c0392b;
 }
 
 form.red input[type="button"],
 form.red input[type="color"],
 form.red input[type="submit"],
 form.red input[type="reset"] {
-	background: #c0392b;
-	color: #fff;
+  background: #c0392b;
+  color: #fff;
 }
 
 form.red input[type="button"]:hover,
 form.red input[type="color"]:hover,
 form.red input[type="submit"]:hover,
 form.red input[type="reset"]:hover {
-	background: #e74c3c;
+  background: #e74c3c;
 }
 
 form.concrete input[type="date"],
@@ -312,19 +312,19 @@ form.concrete input[type="submit"],
 form.concrete input[type="reset"],
 form.concrete select,
 form.concrete textarea {
-	border: 1px solid #7f8c8d;
+  border: 1px solid #7f8c8d;
 }
 
 form.concrete input[type="button"],
 form.concrete input[type="color"],
 form.concrete input[type="submit"],
 form.concrete input[type="reset"] {
-	background: #7f8c8d;
+  background: #7f8c8d;
 }
 
 form.concrete input[type="button"]:hover,
 form.concrete input[type="color"]:hover,
 form.concrete input[type="submit"]:hover,
 form.concrete input[type="reset"]:hover {
-	background: #95a5a6;
+  background: #95a5a6;
 }

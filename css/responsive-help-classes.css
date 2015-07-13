@@ -2,53 +2,49 @@
 .visible-tablet,
 .visible-desktop,
 .visible-largescreen {
-	display: none;
+  display: none;
 }
 
 /* Phone */
 @media only screen and (max-width: 767px) {
-	
-	.hidden-phone{
-		display: none; 
-	}
-	
-	.visible-phone{
-		display: inline;
-	}
+  .hidden-phone{
+    display: none; 
+  }
+
+  .visible-phone{
+    display: inline;
+  }
 }
 
 /* Tablet */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-	
-	.hidden-tablet{
-	display: none;
-	}
-	
-	.visible-tablet{
-		display: inline;
-	}
+  .hidden-tablet{
+  display: none;
+  }
+
+  .visible-tablet{
+    display: inline;
+  }
 }
 
 /* Desktop */
 @media only screen and (min-width: 960px) and (max-width: 1199px) {
-	
-	.hidden-desktop{
-		display: none;
-	}
-	
-	.visible-desktop{
-		display: inline;
-	}
+  .hidden-desktop{
+    display: none;
+  }
+
+  .visible-desktop{
+    display: inline;
+  }
 }
 
 /* Large Screen */
 @media only screen and (min-width: 1200px) {
-	
-	.hidden-largescreen{
-		display: none;
-	}
-	
-	.visible-largescreen{
-		display: inline;
-	}
+  .hidden-largescreen{
+    display: none;
+  }
+
+  .visible-largescreen{
+    display: inline;
+  }
 }

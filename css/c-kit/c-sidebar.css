@@ -1,195 +1,195 @@
 .sidebar.turquoise {
-	border: 1px solid #16a085;
+  border: 1px solid #16a085;
 }
 
 .sidebar.turquoise a,
 .sidebar.turquoise li {
-	color: #fff;
-	background-color: #1abc9c;
+  color: #fff;
+  background-color: #1abc9c;
 }
 
 .sidebar.turquoise .menu-header {
-	border-bottom: 1px solid #16a085;
+  border-bottom: 1px solid #16a085;
 }
 
 .sidebar.turquoise a:hover {
-	background-color: #16a085;
+  background-color: #16a085;
 }
 
 .sidebar.turquoise .menu-header:hover {
-	background-color: #1abc9c;
+  background-color: #1abc9c;
 }
 
 .sidebar.emerald {
-	border: 1px solid #27ae60;
+  border: 1px solid #27ae60;
 }
 
 .sidebar.emerald a,
 .sidebar.emerald li {
-	color: #fff;
-	background-color: #2ecc71;
+  color: #fff;
+  background-color: #2ecc71;
 }
 
 .sidebar.emerald .menu-header {
-	border-bottom: 1px solid #27ae60;
+  border-bottom: 1px solid #27ae60;
 }
 
 .sidebar.emerald a:hover {
-	background-color: #27ae60;
+  background-color: #27ae60;
 }
 
 .sidebar.emerald .menu-header:hover {
-	background-color: #2ecc71;
+  background-color: #2ecc71;
 }
 
 .sidebar.sea {
-	border: 1px solid #2980b9;
+  border: 1px solid #2980b9;
 }
 
 .sidebar.sea a,
 .sidebar.sea li {
-	color: #fff;
-	background-color: #3498db;
+  color: #fff;
+  background-color: #3498db;
 }
 
 .sidebar.sea .menu-header {
-	border-bottom: 1px solid #2980b9;
+  border-bottom: 1px solid #2980b9;
 }
 
 .sidebar.sea a:hover {
-	background-color: #2980b9;
+  background-color: #2980b9;
 }
 
 .sidebar.sea .menu-header:hover {
-	background-color: #3498db;
+  background-color: #3498db;
 }
 
 .sidebar.purple {
-	border: 1px solid #8e44ad;
+  border: 1px solid #8e44ad;
 }
 
 .sidebar.purple a,
 .sidebar.purple li {
-	color: #fff;
-	background-color: #9b59b6;
+  color: #fff;
+  background-color: #9b59b6;
 }
 
 .sidebar.purple .menu-header {
-	border-bottom: 1px solid #8e44ad;
+  border-bottom: 1px solid #8e44ad;
 }
 
 .sidebar.purple a:hover {
-	background-color: #8e44ad;
+  background-color: #8e44ad;
 }
 
 .sidebar.purple .menu-header:hover {
-	background-color: #9b59b6;
+  background-color: #9b59b6;
 }
 
 .sidebar.midnight {
-	border: 1px solid #2c3e50;
+  border: 1px solid #2c3e50;
 }
 
 .sidebar.midnight a,
 .sidebar.midnight li {
-	color: #fff;
-	background-color: #34495e;
+  color: #fff;
+  background-color: #34495e;
 }
 
 .sidebar.midnight .menu-header {
-	border-bottom: 1px solid #2c3e50;
+  border-bottom: 1px solid #2c3e50;
 }
 
 .sidebar.midnight a:hover {
-	background-color: #2c3e50;
+  background-color: #2c3e50;
 }
 
 .sidebar.midnight .menu-header:hover {
-	background-color: #34495e;
+  background-color: #34495e;
 }
 
 .sidebar.sun {
-	border: 1px solid #f39c12;
+  border: 1px solid #f39c12;
 }
 
 .sidebar.sun a,
 .sidebar.sun li {
-	background-color: #f1c40f;
+  background-color: #f1c40f;
 }
 
 .sidebar.sun .menu-header {
-	border-bottom: 1px solid #f39c12;
+  border-bottom: 1px solid #f39c12;
 }
 
 .sidebar.sun a:hover {
-	background-color: #f39c12;
+  background-color: #f39c12;
 }
 
 .sidebar.sun .menu-header:hover {
-	background-color: #f1c40f;
+  background-color: #f1c40f;
 }
 
 .sidebar.carrot {
-	border: 1px solid #d35400;
+  border: 1px solid #d35400;
 }
 
 .sidebar.carrot a,
 .sidebar.carrot li {
-	color: #fff;
-	background-color: #e67e22;
+  color: #fff;
+  background-color: #e67e22;
 }
 
 .sidebar.carrot .menu-header {
-	border-bottom: 1px solid #d35400;
+  border-bottom: 1px solid #d35400;
 }
 
 .sidebar.carrot a:hover {
-	background-color: #d35400;
+  background-color: #d35400;
 }
 
 .sidebar.carrot .menu-header:hover {
-	background-color: #e67e22;
+  background-color: #e67e22;
 }
 
 .sidebar.red {
-	border: 1px solid #c0392b;
+  border: 1px solid #c0392b;
 }
 
 .sidebar.red a,
 .sidebar.red li {
-	color: #fff;
-	background-color: #e74c3c;
+  color: #fff;
+  background-color: #e74c3c;
 }
 
 .sidebar.red .menu-header {
-	border-bottom: 1px solid #c0392b;
+  border-bottom: 1px solid #c0392b;
 }
 
 .sidebar.red a:hover {
-	background-color: #c0392b;
+  background-color: #c0392b;
 }
 
 .sidebar.red .menu-header:hover {
-	background-color: #e74c3c;
+  background-color: #e74c3c;
 }
 
 .sidebar.concrete {
-	border: 1px solid #7f8c8d;
+  border: 1px solid #7f8c8d;
 }
 
 .sidebar.concrete a,
 .sidebar.concrete li {
-	background-color: #95a5a6;
+  background-color: #95a5a6;
 }
 
 .sidebar.concrete .menu-header {
-	border-bottom: 1px solid #7f8c8d;
+  border-bottom: 1px solid #7f8c8d;
 }
 
 .sidebar.concrete a:hover {
-	background-color: #7f8c8d;
+  background-color: #7f8c8d;
 }
 
 .sidebar.concrete .menu-header:hover {
-	background-color: #95a5a6;
+  background-color: #95a5a6;
 }

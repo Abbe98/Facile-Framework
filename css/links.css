@@ -1,14 +1,14 @@
 /* NOTE: concreate color(not cloud) */
 
 a {
-	color: #95a5a6;
-	text-decoration: none;
+  color: #95a5a6;
+  text-decoration: none;
 }
 
 a:visited {
-	color: #7f8c8d;
+  color: #7f8c8d;
 }
 
 a:hover {
-	color: #7f8c8d;
+  color: #7f8c8d;
 }

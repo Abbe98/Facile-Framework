@@ -1,61 +1,61 @@
 button,
 .btn {
-	display: inline-block;
-	margin: 0;
-	text-align: center;
-	background: #dfdfdf;
-	border: 1px solid #dfdfdf;
-	font-size: 1rem;
-	height: 36px;
-	line-height: 34px;
-	padding: 0px 18px;
-	font-weight: 600;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  background: #dfdfdf;
+  border: 1px solid #dfdfdf;
+  font-size: 1rem;
+  height: 36px;
+  line-height: 34px;
+  padding: 0px 18px;
+  font-weight: 600;
 }
 
 button:hover,
 .btn:hover {
-	background: #f2f2f2;
-	cursor: pointer;
+  background: #f2f2f2;
+  cursor: pointer;
 }
 
 .btn-extralarge {
-	font-size: 1.875rem;
-	height: 66px;
-	line-height: 64px;
+  font-size: 1.875rem;
+  height: 66px;
+  line-height: 64px;
 }
 
 .btn-large {
-	font-size: 1.625rem;
-	height: 58px;
-	line-height: 56px;
+  font-size: 1.625rem;
+  height: 58px;
+  line-height: 56px;
 }
 
 .btn-small {
-	font-size: 0.625rem;
-	height: 23px;
-	line-height: 21px;
+  font-size: 0.625rem;
+  height: 23px;
+  line-height: 21px;
 }
 
 .btn-oval {
-	border-radius: 1000px 1000px 1000px 1000px;
+  border-radius: 1000px 1000px 1000px 1000px;
 }
 
 .btn-rounded {
-	border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
 }
 
 .btn-pillleft {
-	border-radius: 500px 0px 0px 500px;
+  border-radius: 500px 0px 0px 500px;
 }
 
 .btn-pillright {
-	border-radius: 0px 500px 500px 0px;
+  border-radius: 0px 500px 500px 0px;
 }
 
 .btn-level {
-	width: 100%;
-	padding-left: 0px;
-	padding-right: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
